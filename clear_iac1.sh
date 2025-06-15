@@ -12,7 +12,7 @@ verde="\e[32m"
 vermelho="\e[91m"
 reset="\e[0m"
 
-# Função para exibir uma barra de progresso simples
+# Função para exibir uma barra de progresso simples (apenas para ilustração)
 show_progress_bar() {
     local duration=$1
     local message="$2"
